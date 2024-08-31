@@ -35,7 +35,6 @@ figure {
 }
 .bg_wrap{
   width: 100%;
-  background: url(../img/1.jpg);
   display: none;
 }
 .scroll {

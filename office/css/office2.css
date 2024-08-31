@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Prompt:wght@600&display=swap');
-@media all and (min-width: 801px) {
+@media all and (min-width: 981px) {
   .office_mo {
     display: none;
   }
@@ -171,7 +171,6 @@
     z-index: 2;
     width: 50vw;
     height: 100vh;
-
   }
 
   .top .description {

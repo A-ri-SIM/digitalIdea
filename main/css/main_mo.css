@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Prompt:wght@600&display=swap');
-@media (max-width: 800px) {
+@media (max-width: 980px) {
   .main_pc {
     display: none;
   }
